@@ -24,6 +24,3 @@
 
 5. Menambahkan hyperlink
    ![image](https://github.com/user-attachments/assets/3ee7aa5c-d260-4a4b-8537-a4fc8117a0d3)
-
-
-
